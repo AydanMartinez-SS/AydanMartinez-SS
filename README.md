@@ -40,4 +40,4 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/3CmHvyZQQAGkKkTjTBFWN6?si=24tIDMqIQh27Fm8uP9ZTVQ)
+[![Spotify](<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3CmHvyZQQAGkKkTjTBFWN6?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>)](https://open.spotify.com/track/3CmHvyZQQAGkKkTjTBFWN6?si=24tIDMqIQh27Fm8uP9ZTVQ)
