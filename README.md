@@ -28,7 +28,7 @@
 
 ### 📊 Mis estadística :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aydan%20Mart%C3%ADnez-SS&theme=gotham&hide_border=FALSO&locale=es)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AydanMartinez-SS&theme=onedark)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AydanMartinez-SS&show_icons=true&theme=radical)
 
